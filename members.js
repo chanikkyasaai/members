@@ -34,7 +34,7 @@ export const members = [
             "instagram": "https://www.instagram.com/agentfortuner_cc1/",
             "personal-website": "null",
         },
-        "photo" : "https://drive.google.com/file/d/1I6eVDyNAgl3KqSTkpuMUBVUF96b2BSuU/view?usp=drivesdk",
+        "photo" : "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p8CyR3S1OB383WK8aTdz8S3E3-ovNi-E7Na-MDc1T5G7-wyVtURSus739ZJsbaYk1brJinOShkL-XGaCiTFRDmcCPe-w=w2560-h1332",
         "shortIntro" : "Hey I am Keshava, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
         "position" : "Public Relations Head"
     },
