@@ -39,17 +39,17 @@ export const members = [
         "position" : "Public Relations Head"
     },
     {
-        "name" : "null",
-        "email" : "null",
+        "name" : "Guru Saran Satsangi Peddinti गुरु सरन सत्संगि पेद्दिंटि"
+        "email" : "21f1002569@ds.study.iitm.ac.in",
         "links" : {
-            "github" : "null",
-            "linkedin" : "null",
-            "instagram" : "null",
-            "personal-website" : "null",
+            "github" : "https://github.com/gurusaransatsangi",
+            "linkedin" : "https://www.linkedin.com/in/gurusaransp/",
+            "instagram" : "https://www.instagram.com/gurusaransp8298/",
+            "personal-website" : "pgssatsangi.com",
         },
-        "photo" : "null",
-        "shortIntro" : "null",
-        "position" : "null"
+        "photo" : "https://avatars.githubusercontent.com/u/107044770?v=4",
+        "shortIntro" : "Hello Everyone, I'm Guru Saran Satsangi Peddinti, "GURU" in short, a memer, writer, tech savy and a rail fan by heart :)",
+        "position" : "CHIEF EXECUTIVE OFFICER & WEB ADMIN"
     },
 ]
 
