@@ -39,6 +39,19 @@ export const members = [
         "position" : "Public Relations Head"
     },
     {
+        "name" : "Santosh Ravinutala",
+        "email" : "22f1000328@ds.study.iitm.ac.in",
+        "links" : {
+            "github" : "https://https://github.com/San12R",
+            "linkedin" : "https://https://www.linkedin.com/in/santoshravinutala/",
+            "Twitter" : "https://twitter.com/s_ravinutala12",
+            "personal-website" : "Still In Progress",
+        },
+        "photo" : "null",
+        "shortIntro" : "A Quantum Computing and a Physics Enthusiast pursuing BS from IIT Madras. ",
+        "position" : "General Secretary"
+    },
+    {
         "name" : "Guru Saran Satsangi Peddinti गुरु सरन सत्संगि पेद्दिंटि"
         "email" : "21f1002569@ds.study.iitm.ac.in",
         "links" : {
@@ -50,6 +63,6 @@ export const members = [
         "photo" : "https://avatars.githubusercontent.com/u/107044770?v=4",
         "shortIntro" : "Hello Everyone, I'm Guru Saran Satsangi Peddinti, "GURU" in short, a memer, writer, tech savy and a rail fan by heart :)",
         "position" : "CHIEF EXECUTIVE OFFICER & WEB ADMIN"
-    },
+    }
 ]
 
