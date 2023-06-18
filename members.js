@@ -1,4 +1,4 @@
-export const members = [
+{
     {
         "name": "Yash Kumar यश कुमार",
         "email": "22f3000472@ds.study.iitm.ac.in",
@@ -64,5 +64,4 @@ export const members = [
         "shortIntro" : "Hello Everyone, I'm Guru Saran Satsangi Peddinti, "GURU" in short, a memer, writer, tech savy and a rail fan by heart :)",
         "position" : "CHIEF EXECUTIVE OFFICER & WEB ADMIN"
     }
-]
-
+}
