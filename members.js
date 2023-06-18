@@ -50,6 +50,19 @@ export const members = [
         "photo" : "null",
         "shortIntro" : "A Quantum Computing and a Physics Enthusiast pursuing BS from IIT Madras. ",
         "position" : "General Secretary"
+    },
+    {
+        "name" : "Guru Saran Satsangi Peddinti गुरु सरन सत्संगि पेद्दिंटि"
+        "email" : "21f1002569@ds.study.iitm.ac.in",
+        "links" : {
+            "github" : "https://github.com/gurusaransatsangi",
+            "linkedin" : "https://www.linkedin.com/in/gurusaransp/",
+            "instagram" : "https://www.instagram.com/gurusaransp8298/",
+            "personal-website" : "pgssatsangi.com",
+        },
+        "photo" : "https://avatars.githubusercontent.com/u/107044770?v=4",
+        "shortIntro" : "Hello Everyone, I'm Guru Saran Satsangi Peddinti, "GURU" in short, a memer, writer, tech savy and a rail fan by heart :)",
+        "position" : "CHIEF EXECUTIVE OFFICER & WEB ADMIN"
     }
 ]
 
