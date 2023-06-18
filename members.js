@@ -39,17 +39,17 @@ export const members = [
         "position" : "Public Relations Head"
     },
     {
-        "name" : "null",
-        "email" : "null",
+        "name" : "Santosh Ravinutala",
+        "email" : "22f1000328@ds.study.iitm.ac.in",
         "links" : {
-            "github" : "null",
-            "linkedin" : "null",
-            "instagram" : "null",
-            "personal-website" : "null",
+            "github" : "https://https://github.com/San12R",
+            "linkedin" : "https://https://www.linkedin.com/in/santoshravinutala/",
+            "Twitter" : "https://twitter.com/s_ravinutala12",
+            "personal-website" : "Still In Progress",
         },
         "photo" : "null",
-        "shortIntro" : "null",
-        "position" : "null"
-    },
+        "shortIntro" : "A Quantum Computing and a Physics Enthusiast pursuing BS from IIT Madras. ",
+        "position" : "General Secretary"
+    }
 ]
 
