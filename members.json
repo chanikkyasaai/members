@@ -1,4 +1,5 @@
 [
+    
     {
         "name": "Yash Kumar यश कुमार",
         "email": "22f3000472@ds.study.iitm.ac.in",
@@ -117,17 +118,18 @@
         "position": "Management Dept"
     },
     {
-        "name" : "null",
-        "email" : "null",
+        "name" : "Chanikya Sai Nelapatla",
+        "email" : "23f1002419@ds.study.iitm.ac.in",
         "links" : {
-            "github" : "",
-            "linkedin" : "",
-            "instagram" : "",
-            "personal-website" : "",
+            "github" : "https://github.com/chanikkyasaai",
+            "linkedin" : "www.linkedin.com/in/chanikya-sai-nelapatla-6755861b1",
+            "instagram" : "https://www.instagram.com/chanikkyasaai/",
+            "personal-website" : "null",
+            "twitter" : "https://twitter.com/ChanikkyaSaai",
         }
-        "photo" : "",
-        "shortIntro" : "",
-        "position" : "",
+        "photo" : "https://avatars.githubusercontent.com/u/125785223?v=4",
+        "shortIntro" : "Hey ! This is Chanikya. Mastering the art of code",
+        "position" : "Public Relations member",
 
     },
 ]
