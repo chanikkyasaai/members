@@ -90,6 +90,32 @@
         "shortIntro" : "Hey, I am Shivam Raj from IIT Madras currently a freshman in B.S degree &  I love to explore and learn new things.",
         "position" : "Technical Head",
     },
+        {
+        "name" : "Ayush Khade",
+        "email" : "23f2000737@ds.study.iitm.ac.in",
+        "links" : {
+            "github" : "null",
+            "linkedin" : "null",
+            "instagram" : "null",
+            "personal-website" : "null",
+        }
+        "photo" : "https://drive.google.com/file/d/1LZY0fcEYJMSGdxJU3sip5TuP_LNP6P30/view?usp=drive_link",
+        "shortIntro" : "Hey !! Am Ayush Khade, a foundation Level student from Pune. Am doing this degree standalone because jee forced me to do so xd ! I'm 20 and am fond of languages hence here.",
+        "position" : "PR Department",
+    },
+    {
+        "name": "Shikhar Kumar Ambastha",
+        "email": "23f1000263@ds.study.iitm.ac.in",
+        "links": {
+            "github": "https://github.com/ShikharAmbastha",
+            "linkedin": "https://www.linkedin.com/in/shikhar-ambastha-9916a421/",
+            "personal-website": "https://shikharambastha.com/",
+            "Twitter": "https://twitter.com/ShikharSunny",
+        },
+        "photo": "https://drive.google.com/file/d/1mG8urBXzAKpUfXH_kac9UwfqjxEeW2Z8/view?usp=sharing",
+        "shortIntro": "Hey This is Shikhar, an Indie Game Developer(Unity Mostly), & owner of Shubh Games",
+        "position": "Management Dept"
+    },
     {
         "name" : "null",
         "email" : "null",
