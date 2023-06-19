@@ -65,16 +65,29 @@
         "position" : "CHIEF EXECUTIVE OFFICER & WEB ADMIN"
     },
     {
+        "name" : "Shivam Raj ",
+        "email" : "22f3002043@ds.study.iitm.ac.in",
+        "links" : {
+            "github" : "https://github.com/ShivamSunny",
+            "linkedin" : "https://www.linkedin.com/in/shivam-raj-a3189124b/",
+            "instagram" : "https://www.instagram.com/shivam_rajp_01/",
+            "personal-website" : "In-progress",
+        },
+        "photo" : "https://drive.google.com/file/d/17AHZ927c36CuL9DsvbijpMLWWiCvSyHq/view?usp=sharing",
+        "shortIntro" : "Hey, I am Shivam Raj from IIT Madras currently a freshman in B.S degree &  I love to explore and learn new things.",
+        "position" : "Technical Head",
+    },
+    {
         "name" : "null",
         "email" : "null",
         "links" : {
-            "github" : "null",
-            "linkedin" : "null",
-            "instagram" : "null",
-            "personal-website" : "null",
-        },
-        "photo" : "null",
-        "shortIntro" : "null",
-        "position" : "null",
+            "github" : "",
+            "linkedin" : "",
+            "instagram" : "",
+            "personal-website" : "",
+        }.
+        "photo" : "",
+        "shortIntro" : "",
+        "position" : "",
     },
 ]
