@@ -65,6 +65,7 @@
         "position" : "CHIEF EXECUTIVE OFFICER & WEB ADMIN"
     },
     {
+
         "name" : "Prabuddh Mathur प्रबुद्ध माथुर",
         "email" : "21f2001016@ds.study.iitm.ac.in",
         "links" : {
@@ -76,5 +77,31 @@
         "photo" : "https://media.licdn.com/dms/image/C4D03AQHP_-MGGPYCmg/profile-displayphoto-shrink_400_400/0/1637003029603?e=1692835200&v=beta&t=Shy2RbPNzTknIcqX4HKi_P3tVSlDCrqp-meUQAs0_Hw",
         "shortIntro" : "Currently pursuing Data Science and Applications and have a working hand in Python. Always ready to learn new things and try out new technologies all along with being a connected friend.",
         "position" : "Technical Team member",
+
+        "name" : "Shivam Raj ",
+        "email" : "22f3002043@ds.study.iitm.ac.in",
+        "links" : {
+            "github" : "https://github.com/ShivamSunny",
+            "linkedin" : "https://www.linkedin.com/in/shivam-raj-a3189124b/",
+            "instagram" : "https://www.instagram.com/shivam_rajp_01/",
+            "personal-website" : "In-progress",
+        },
+        "photo" : "https://drive.google.com/file/d/17AHZ927c36CuL9DsvbijpMLWWiCvSyHq/view?usp=sharing",
+        "shortIntro" : "Hey, I am Shivam Raj from IIT Madras currently a freshman in B.S degree &  I love to explore and learn new things.",
+        "position" : "Technical Head",
+    },
+    {
+        "name" : "null",
+        "email" : "null",
+        "links" : {
+            "github" : "",
+            "linkedin" : "",
+            "instagram" : "",
+            "personal-website" : "",
+        }
+        "photo" : "",
+        "shortIntro" : "",
+        "position" : "",
+
     },
 ]
